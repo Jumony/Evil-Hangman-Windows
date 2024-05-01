@@ -90,7 +90,7 @@ Boolean remaining_words() {
 
     char c;
 
-    // printf("Would you like a running total of the number of words remaining? (y/n) ");
+
     printf("Would you like to enable Developer Mode? (y/n)");
     scanf("%c", &c);
     clear_keyboard_buffer();
